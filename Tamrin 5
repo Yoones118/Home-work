@@ -10,8 +10,6 @@ namespace Home_Work
     {
         static void Main(string[] args)
         {
-            // goal: how much money dose user wants to reach.
-            // profit: profit persent per year.
 
             int inventory, goal, profit;
 

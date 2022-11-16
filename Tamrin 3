@@ -10,7 +10,6 @@ namespace ConsoleApp11
     {
         static void Main(string[] args)
         {
-            // Get number n, then print n**2 & n **3.
 
             int n;
 
